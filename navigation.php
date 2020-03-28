@@ -3,7 +3,7 @@
 return [
     'home' => 'Accueil',
     'account' => [
-        'header' => 'GESTION Du COMPTE',
+        'header' => 'GESTION DU COMPTE',
         'my_account' => 'Mon compte',
         'security_controls' => 'Contrôles Sécurité',
         'api_access' => 'API Compte',
