@@ -12,11 +12,11 @@ return [
     |
     */
 
-    'accepted' => 'The :attribute must be accepted.',
-    'active_url' => 'The :attribute is not a valid URL.',
-    'after' => 'The :attribute must be a date after :date.',
-    'after_or_equal' => 'The :attribute must be a date after or equal to :date.',
-    'alpha' => 'The :attribute may only contain letters.',
+    'accepted' => ':attribute doit être accepté(e).',
+    'active_url' => ':attribute n\'est pas une URL valide.',
+    'after' => ':attribute doit être une date après le :date.',
+    'after_or_equal' => ':attribute doit être une date après ou égale à :date.',
+    'alpha' => ':attribute ne peut contenir uniquement des lettres.',
     'alpha_dash' => 'The :attribute may only contain letters, numbers, and dashes.',
     'alpha_num' => 'The :attribute may only contain letters and numbers.',
     'array' => 'The :attribute must be an array.',
@@ -30,7 +30,7 @@ return [
     ],
     'boolean' => 'The :attribute field must be true or false.',
     'confirmed' => 'The :attribute confirmation does not match.',
-    'date' => 'The :attribute is not a valid date.',
+    'date' => ':attribute n\'est pas une date valide.',
     'date_format' => 'The :attribute does not match the format :format.',
     'different' => 'The :attribute and :other must be different.',
     'digits' => 'The :attribute must be :digits digits.',
